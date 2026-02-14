@@ -1,0 +1,5 @@
+Artificial Intelligence is transforming healthcare.
+Machine learning improves prediction systems.
+Deep learning is widely used in computer vision.
+Vector databases store embeddings efficiently.
+RAG combines retrieval and generation models.
